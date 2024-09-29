@@ -1,6 +1,4 @@
-Here's a GitHub README template for your Amazon Product Recommendation System:
 
----
 
 # Amazon Product Recommendation System
 
@@ -90,9 +88,4 @@ The system outputs recommendations for both approaches:
   - `surprise`, `scikit-learn`, `scipy`
   - `joblib`, `os`, `time`, `math`, `IPython`
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-You can modify the repository and specific links according to your project structure.
